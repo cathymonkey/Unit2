@@ -5,7 +5,7 @@ Times = []
 def run():
 
     print("Hi player A, remember you can only reply","low,","high","or This is the number!")
-    num =  random.randint(1,99)
+    num =  random.randint(1,100)
     A_num = input(("Now,please enter a number from 1-100:{}").format(num))
 
 
@@ -13,7 +13,7 @@ def run():
     B_num= (input("Player B, please guess a number!(Guess 50 first!!)"))
     B_num = 50
     print(B_num)
-    B_num0 = 100
+    B_num0 = 101
     B_num1 = 50
     count = 0
 
