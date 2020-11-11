@@ -3,8 +3,10 @@
 ### Question 1
 ![Figure1](https://github.com/cathymonkey/Unit2/blob/main/Figure1.jpeg)
 
-### Question 2
+
 ![Figure2](https://github.com/cathymonkey/Unit2/blob/main/Figure2.png)
+
+
 
 ### Question 3
 ![Figure3](https://github.com/cathymonkey/Unit2/blob/main/Figure3.png)
