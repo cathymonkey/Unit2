@@ -7,9 +7,11 @@
 ![Figure2](https://github.com/cathymonkey/Unit2/blob/main/Figure2.png)
 
 
+### Question 2
+![Figure3](https://github.com/cathymonkey/Unit2/blob/main/Figure3.png)
 
 ### Question 3
-![Figure3](https://github.com/cathymonkey/Unit2/blob/main/Figure3.png)
+![Fig_Q3](https://github.com/cathymonkey/Unit2/blob/main/Fig_Q3.png)
 
 ### Question 4
 ![Figure4](https://github.com/cathymonkey/Unit2/blob/main/Figure4.png)
