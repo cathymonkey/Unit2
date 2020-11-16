@@ -40,7 +40,6 @@ Print one integer representing the number of days to reach the required distance
 x_miles = int(input())
 y_miles = int(input())
 days = 1
-distance = 0
 while x_miles < y_miles:
     x_miles = x_miles *1.1
     days  += 1
