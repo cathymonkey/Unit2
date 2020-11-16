@@ -18,7 +18,20 @@ while a%b != 0:
     b+=1
 print(b)
 ```
-### 3. Morning jog
+### 3. The power of two 
+For a given integer N, find the greatest integer x where 2x is less than or equal to N. Print the exponent value and the result of the expression 2x.
+*Don't use the operation **.*
+```.py
+N = int(input())
+x = 0
+base = 2
+while base <= N:
+    x += 1
+    base *= 2
+    
+print(x, base//2)
+```
+### 4. Morning jog
 As a future athlete you just started your practice for an upcoming event. Given that on the first day you run x miles, and by the event you must be able to run y miles.
 Calculate the number of days required for you to finally reach the required distance for the event, if you increases your distance each day by 10% from the previous day.
 
@@ -33,7 +46,7 @@ while x_miles < y_miles:
     days  += 1
 print(days)
 ```
-### 4.The sum of the sequence
+### 5.The sum of the sequence
 Determine the sum of all elements in the sequence, ending with the number 0.
 ```.py
 total = 0
@@ -43,7 +56,7 @@ while n != 0:
     n = int(input())
 print(total)
 ```
-### 5.The average of the sequence
+### 6.The average of the sequence
 Determine the average of all elements of the sequence ending with the number 0.
 ```.py
 count = 0
@@ -55,3 +68,4 @@ while a != 0:
     a = int(input())
 print(total/count)
 ```
+
