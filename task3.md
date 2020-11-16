@@ -41,7 +41,7 @@ x_miles = int(input())
 y_miles = int(input())
 days = 1
 while x_miles < y_miles:
-    x_miles = x_miles *1.1
+    x_miles *= 1.1
     days  += 1
 print(days)
 ```
