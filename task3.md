@@ -8,7 +8,6 @@ a = 1
 while a**2 <= N:
     print(a**2,end = " ")
     a += 1
-
 ```
 ### 2. Least divisor 
 Given an integer not less than 2. Print its smallest integer divisor greater than 1.
@@ -34,7 +33,17 @@ while x_miles < y_miles:
     days  += 1
 print(days)
 ```
-### 4.The average of sequence
+### 4.The sum of the sequence
+Determine the sum of all elements in the sequence, ending with the number 0.
+```.py
+total = 0
+n = int(input())
+while n != 0:
+    total = total + n
+    n = int(input())
+print(total)
+```
+### 5.The average of the sequence
 Determine the average of all elements of the sequence ending with the number 0.
 ```.py
 count = 0
