@@ -93,15 +93,26 @@ void loop()
 }
 ```
 
-<img src = "https://github.com/cathymonkey/Unit2/blob/main/display.jpeg" width = "600" height = "480">  *fig5. Real display 1* 
+<img src = "https://github.com/cathymonkey/Unit2/blob/main/display.jpeg" width = "600" height = "480">  
 
-<img src = "https://github.com/cathymonkey/Unit2/blob/main/display%202.jpeg" width = "600" height = "480">  *fig6. Real display 2*
+*fig5. Real display 1* 
 
-<img src = "https://github.com/cathymonkey/Unit2/blob/main/circuit.jpeg" width = "600" height = "480">  *fig7. Circuit*
+
+<img src = "https://github.com/cathymonkey/Unit2/blob/main/display%202.jpeg" width = "600" height = "480">  
+
+*fig6. Real display 2*
+
+
+<img src = "https://github.com/cathymonkey/Unit2/blob/main/circuit.jpeg" width = "600" height = "480">  
+
+*fig7. Circuit*
+
 
 **Use instructions**
 
-<img src = "https://github.com/cathymonkey/Unit2/blob/main/button_guide.jpeg" width = "400" height = "400">  *fig8. User guide*
+<img src = "https://github.com/cathymonkey/Unit2/blob/main/button_guide.jpeg" width = "400" height = "400">  
+
+*fig8. User guide*
 
 
 ### Criteria D: Functionality
