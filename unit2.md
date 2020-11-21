@@ -29,6 +29,7 @@ Here is a visual explanation.
 *fig3. System Diagram*
 
 
+
 | Dec. 	| A 	| B 	| C 	| D 	| a 	| b,c 	| d,e,f 	| g 	|
 |------	|---	|---	|---	|---	|---	|-----	|-------	|---	|
 | 0    	| 0 	| 0 	| 0 	| 0 	| 0 	|  0  	|   0   	| 0 	|
