@@ -85,6 +85,7 @@ hacked or broken, the data in it couldn't be found back any more.
 
 ### e) State two measures that the book shop can take to address the risks identified in part (d).
 Measure 1: Establish a back-up system. It could be a hard drive or stored in the cloud.
+
 Measure 2: Add a function that you can find the book price by the name or the author of the book in the database.
 
 ### f) Outline the consequences to the customer if their data is not adequately protected.
