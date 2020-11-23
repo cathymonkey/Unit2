@@ -68,10 +68,13 @@ Consequences of data loss: Users' personal information like the accounts will be
 ### At the point of sale there are peripheral devices other than the scanning device and printer.
 
 ### b) Define peripheral devices
-
+A Peripheral device is generally defined as any auxiliary device that connects to and works with the computer in some ways. There are three types of peripherals:
++ Input, used to interact with, or send data to the computer (mouse, keyboards, etc.)
++ Output, which provides output to the user from the computer (monitors, printers, etc.)
++ Storage, which stores data processed by the computer (hard drives, flash drives, etc.)
 
 ### c)Outline the purpose of one other possible peripheral device in this scenario.
-
+A mouse and a keyboard connected with the sale computer for the staff to use the computer.
 
 ### The customers can also buy books online. A customer can select a book, and then enter their name, address and credit card number. This data is stored on the book shop’s central computer in a database of customer orders.
 
