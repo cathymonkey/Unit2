@@ -54,10 +54,8 @@ after the data finished transferring and users already get used to the new syste
 
 
 ### 5. What would be the consequences of a deficient transition from the old Google Form system to the Matrix, and to the New Matrix Reloaded? What would be the consequences of data loss?
-Consequences of a deficient transition: 
-
-
-
+Consequences of a deficient transition:  User loss and data loss because this terrible transition will lose the trust of the users.
+Consequences of data loss: Users' personal information like the accounts will be lost.
 
 ### 6.[HL]
 ### 📔A book shop has a computer at each point of sale, and also a central computer. When a customer buys a book in the book shop, the salesperson at the point of sale uses a scanning device to input a barcode from the book. The barcode is sent to the central computer where the barcode of each book and the corresponding price are held in a database on a disk. When the price is found, it is sent to the point of sale computer where all necessary calculations are performed, details of the transaction are stored on a local disk and a receipt is printed out.
