@@ -8,18 +8,33 @@
   * What features were needed?
   * Who were the intended users of the system?
 
-
+The old Matrix system was designed to serve for the whole school community. For signing out, there was a Google form with around 8 questions to ask students their 
+names, return date, destination, phone number, house,etc.. There were no default input values and "overnight" checkbox was an unecessary question as "this can be 
+calculated by parsing input return date. For signing back in, students had to check their names out of a long list of signed-out people. Students are the users 
+offering data while faculty are the users going through these data.
 
 ### 2. What are some issues that could arise when transitioning from the old sign in/out system based on Google Forms to the dedicated web application Matrix? 
-
+1. Information security. When the data are moved to a web application Matrix, there's log in process requring students' email and password. Hence, the web has to 
+protect students' data. 
+2. Techology requirements. The creators of the web application Matrix will have to bring all the data like students' names and house from the old system to the new 
+one. They also need to add the default input values for students to choose and refine the questions to make sure each one is necessary. Also, we users will need a 
+training session to learn about how to use the new Matrix system.
+3. System updating. As every year new students join and seniors leave, the database for the students' information has to be updated. Moreover, most of the 
+students' house will change every year so the new system needs to update its database much more frequently than the old one.
 
 ### 3. What would be the advantages and limitations of hosting the Matrix on a local computer versus on the cloud?
+Matrix on a local computer allows the users to freely access the web anytime they want with a faster speed as the web running program is stored in the local 
+computer. Also, it usually can work offline so even if users forget to sign out on campus, they can still sign out where there's no networks. The limitation of 
+this is that the users and mainly creators have to take care of the web such as by keeping the RAM upgrade as there maybe secure issues. Or even we need to pay at 
+a very high cost for the web server upgrading and web maintainance. Also, people can only access to the web when the web is installed in the local computer.
 
-
-
+Matrix on the cloud charges users lower cost in the long run because it includes backups, keeping the power going when there is an outage, applying security 
+updates, and even replacing faulty hardware, which also means the data could be more secure and efficient. Using a cloud model can also allow you to access the web 
+by typing the domain from any computer with internet. However, the cloud service has some restrictions for the users to access the web and causes the issues while 
+moving larger files because it might take minutes to slow down the process.
 
 ### 4. Describe how would a Direct changeover, Parallel run, an ad phased implementation look like for the Matrix system? 
-
+Direct Changeover: 
 
 
 ### 5. What would be the consequences of a deficient transition from the old Google Form system to the Matrix, and to the New Matrix Reloaded? What would be the consequences of data loss?
