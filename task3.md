@@ -34,10 +34,27 @@ by typing the domain from any computer with internet. However, the cloud service
 moving larger files because it might take minutes to slow down the process.
 
 ### 4. Describe how would a Direct changeover, Parallel run, an ad phased implementation look like for the Matrix system? 
-Direct Changeover: 
++ **Direct Changeover(Big bang adoption)** 
+
+Every student and faculty would be asked to use the new Matrix system and discard the old one. This would be too risky since the creators don't know what users 
+think about the new system. If the new system is worse than the old one and users woould like to continue using the old but all the data in the old one was 
+eliminated, then it was a serious data loss and user loss. 
+
++ **Parallel run**
+
+Students and faculty would be informed that there is a new Matrix system in use and they can use both of the systems simultaneously. If the new Matrix system is 
+worse than the old one, this time users have the old one to go back. When the new system is improved better and convinced by users during use, the old Matrix can 
+be shut down completely.
+
++ **Ad phased implementation**
+
+Similar to the parallel run, the old Matrix system will be kept while the new Matrix system is funcioning but gradually the data stored in the old system would be 
+transferred to the new system. As time passed by, the users would depend on the new web more and more because it has a more completed database. Then eventually 
+after the data finished transferring and users already get used to the new system, the old Matrix system will be completely replaced by the new Matrix system. 
 
 
 ### 5. What would be the consequences of a deficient transition from the old Google Form system to the Matrix, and to the New Matrix Reloaded? What would be the consequences of data loss?
+Consequences of a deficient transition: 
 
 
 
