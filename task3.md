@@ -62,7 +62,7 @@ Consequences of data loss: Users' personal information like the accounts will be
 
 ### a) Construct a system flow chart for the system described above.
 
-[system flow chart](https://docs.google.com/presentation/d/1kWwswwiioB4MXnD73JE9jHaoo7nGjIiNTaPDSIAbzGI/edit#slide=id.p)
+<img src= "https://github.com/cathymonkey/Unit2/blob/main/SystemFlowChart.png" width = "600" height = "240">
 
 ### At the point of sale there are peripheral devices other than the scanning device and printer.
 
