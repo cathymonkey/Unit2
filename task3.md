@@ -79,14 +79,18 @@ A mouse and a keyboard connected with the sale computer for the staff to use the
 ### The customers can also buy books online. A customer can select a book, and then enter their name, address and credit card number. This data is stored on the book shop’s central computer in a database of customer orders.
 
 ### d) Identify two sources of risk to personal data in this online system.
-
+1. Data permanent loss due to no back-up system. In this online system, all the data is stored in a disk of the central computer, thus if the central computer is 
+hacked or broken, the data in it couldn't be found back any more. 
+2. Since the information of book price is related to the barcode of the book, if the barcode is destroyed or the barcode scanner is broken, then you can't find the book in the database and then no price.
 
 ### e) State two measures that the book shop can take to address the risks identified in part (d).
-
-
+Measure 1: Establish a back-up system. It could be a hard drive or stored in the cloud.
+Measure 2: Add a function that you can find the book price by the name or the author of the book in the database.
 
 ### f) Outline the consequences to the customer if their data is not adequately protected.
-
+Since the local disk of the sale computer is used to record customers' transaction details, if this kind of data is stolen, then the customers' credit card 
+accounts or their other payment app accounts as well as passwords would be exposed to the intruders. This will have a negative impact on customers' finance. Also, 
+if the data of the book database has been tampered, this will cause financial and operational problems in the bookstore.    
 
 
 
