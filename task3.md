@@ -1,4 +1,5 @@
 ## Task 3: Learning about your client
+***Notes 1.1
 ### Consider also the previous Matrix. The following is the description of the problem as described by the student that created it 2 years ago:
 
 ### “Currently, every time students go off-campus we have to sign out by filling out a Google Form. We specify our return date, destination, and other details. When we return back from our outing we sign in by checking our name out of a list of  signed-out people. The form is long (it has around 8 questions), it does not have any default input values (such as the date or destination), and many times the data is the same or unique for each user, for example, the house to which they belong to or their mobile phone. The “overnight” checkbox is another example of an unnecessary question: this can be calculated by parsingthe input return ate.”
@@ -62,7 +63,7 @@ Consequences of data loss: Users' personal information like the accounts will be
 
 ### a) Construct a system flow chart for the system described above.
 
-<img src= "https://github.com/cathymonkey/Unit2/blob/main/SystemFlowChart.png" width = "600" height = "240">
+<img src= "https://github.com/cathymonkey/Unit2/blob/main/SystemFlowChart.png" width = "800" height = "300">
 
 ### At the point of sale there are peripheral devices other than the scanning device and printer.
 
