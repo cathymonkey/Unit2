@@ -37,7 +37,7 @@ moving larger files because it might take minutes to slow down the process.
 ### 4. Describe how would a Direct changeover, Parallel run, an ad phased implementation look like for the Matrix system? 
 + **Direct Changeover(Big bang adoption)** 
 
-Every student and faculty would be asked to use the new Matrix system and discard the old one. This would be too risky since the creators don't know what users 
+Every student and faculty would be asked to use the new Matrix system and discard the old one on a certain day. This would be too risky since the creators don't know what users 
 think about the new system. If the new system is worse than the old one and users woould like to continue using the old but all the data in the old one was 
 eliminated, then it was a serious data loss and user loss. 
 
