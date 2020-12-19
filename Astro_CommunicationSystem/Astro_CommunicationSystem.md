@@ -618,7 +618,7 @@ void send(){
       dash();
       dash();
     }   
-    delay(6000);
+    delay(30000);
     
   }
 }
