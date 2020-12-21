@@ -120,9 +120,9 @@ missingNumber([4,5,6,8,9,10])
 missingNumber([73, 74, 75, 76, 78, 79])
 ```
 ### 010
-**??????**
+**Given an array of sorted integers, find the largest difference between neighbouring numbers.**
 ```.py
-def maxNeighbour(numbers):
+def BigNeighbour(numbers):
     max_diff = 0
     for i in range(len(numbers)-1):
         diff = abs(numbers[i]-numbers[i+1])
@@ -130,8 +130,9 @@ def maxNeighbour(numbers):
             max_diff = diff
     return max_diff
 
-print(maxNeighbour([1,2,3,5,6,7]))
-print(maxNeighbour([10,0]))
+print(BigNeighbour([1,2,3,5,6,7]))
+print(BigNeighbour([0,5,6,10]))
+print([73,74,174,76,78,79])
 ```
 ### 011
 **Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.**
