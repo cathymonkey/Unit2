@@ -74,7 +74,7 @@ def tableM(n):
         print(n, "*", i ,"=",x)
 tableM(2)
 ```
-### 6
+### 006
 **Output TRUE if the given string begins with 'mix', except the 'm' can be anything, so 'pix', '9ix'..all count.**
 ```.py
 def MixStart(s):
@@ -86,7 +86,7 @@ print(MixStart("mix snacks"))
 print(MixStart("pix snacks"))
 print(MixStart("piz snacks"))
 ```
-### 7
+### 007
 **Given a string, output each letter with its index.**
 ```.py
 def letters(s):
@@ -94,7 +94,7 @@ def letters(s):
         print(i,"->",s[i])
 print(letters("hello"))
 ```
-### 8 
+### 008 
 **Given an array of integers, find the largest absolute value.  Tip: you can use the abs() function.**
 ```.py
 def maxAbs(a):
@@ -107,7 +107,7 @@ maxAbs([-4,5,6,7])
 maxAbs([-1,0,1])
 maxAbs([-100, 0, 3,-200])
 ```
-### 9 
+### 009 
 **Given an array of sorted integers, find the missing number.**
 ```.py
 def missingNumber(a):
@@ -119,7 +119,7 @@ missingNumber([1,2,3,5,6,7])
 missingNumber([4,5,6,8,9,10])
 missingNumber([73, 74, 75, 76, 78, 79])
 ```
-### 10
+### 010
 **??????**
 ```.py
 def maxNeighbour(numbers):
@@ -133,7 +133,7 @@ def maxNeighbour(numbers):
 print(maxNeighbour([1,2,3,5,6,7]))
 print(maxNeighbour([10,0]))
 ```
-### 11
+### 011
 **Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.**
 ```.py
 def SameFirstLast(x):
@@ -142,7 +142,7 @@ print(SameFirstLast([1,2,3]))
 print(SameFirstLast([1,2,3,1]))
 print(SameFirstLast([1,2,1]))
 ```
-### 12
+### 012
 **Given an array of words, find the average word length.**
 ```.py
 
