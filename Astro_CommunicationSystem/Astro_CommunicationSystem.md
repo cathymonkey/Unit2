@@ -358,17 +358,17 @@ if(mode == 1){
 void dash(){
   Serial.println("dash function");
   digitalWrite(lightbulb,HIGH);
-  delay(3000);
+  delay(30000);
   digitalWrite(lightbulb,LOW);
-  delay(1000);
+  delay(10000);
 }
 
 void dot(){
   Serial.println("dot function");
   digitalWrite(lightbulb,HIGH);
-  delay(1000);
+  delay(10000);
   digitalWrite(lightbulb,LOW);
-  delay(1000);
+  delay(10000);
 }
 
 void send(){
