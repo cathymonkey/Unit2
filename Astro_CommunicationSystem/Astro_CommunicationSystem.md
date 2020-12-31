@@ -5,7 +5,7 @@
 
 ## Criteria A: Planning
 ### Context of the product
-We are creating a communication system that could send and receive messages between Earth and arguably any planet. In our case, we are designing our system for austronauts on the moon. The system lets austronaut push buttons to send their messages in English. The system will then convert this into Morse code to show these message through a LED light. Morse-English translating system created by other developers could then be used to read the messages the austronat sent from our system.
+We are creating a communication system that could send and receive messages between Earth and arguably any planet. In our case, we are designing our system for austronauts on the moon. The system lets astronaut push buttons to send their messages in English. The system will then convert this into Morse code to show these message through a LED light. Morse-English translating system created by other developers could then be used to read the messages the austronat sent from our system.
 
 
 #### Sketches of Ideas
