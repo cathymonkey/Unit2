@@ -9,12 +9,14 @@ We are creating a communication system that could send and receive messages betw
 
 
 #### Sketches of Ideas
+Fig 1 is the sketch of how our communication system works. 
 <img src ="https://github.com/BrightChanges/Unit-2/blob/main/IMG_7520.JPG" width = "600" height = "400">
 Fig.1 Our sketch for how our system looks like
 
 
 ## Criteria B: Design
 #### System Diagram
+In Fig 2. below, we can clearly see how our system processes. 
 <img src ="https://github.com/cathymonkey/Unit2/blob/main/System_diagram.png" width = "600" height = "360">
 Fig.2 The system diagram of our program
 
