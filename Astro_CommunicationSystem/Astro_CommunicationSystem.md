@@ -15,7 +15,7 @@ Fig.1 Our sketch for how our system looks like
 
 ## Criteria B: Design
 #### System Diagram
-<img src ="https://github.com/BrightChanges/Unit-2/blob/main/IMG_7291.JPG" width = "600" height = "450">
+<img src ="https://github.com/cathymonkey/Unit2/blob/main/System_diagram.png" width = "600" height = "450">
 Fig.2 The system diagram of our program
 
 #### Flow Diagram
