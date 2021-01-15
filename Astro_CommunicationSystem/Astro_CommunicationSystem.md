@@ -9,7 +9,7 @@ We are creating a communication system that could send and receive messages betw
 
 
 #### Sketches of Ideas
-Fig 1 is the sketch of how our communication system works. 
+Fig. 1 is the sketch of how our communication system works. 
 
 <img src ="https://github.com/BrightChanges/Unit-2/blob/main/IMG_7520.JPG" width = "600" height = "400">
 Fig.1 Our sketch for how our system looks like
@@ -33,7 +33,7 @@ Fig.3 Flow diagram of our complete system
 ## Criteria C: Development
 1st development story:
 
--In the beginning, our team were thinking of creating a selector that constantly hovering over every inputs. We thought that our idea is very cool and advanced. However, due to the limitation of the LCD, which can't show two symbols in the same digit box, we couldn't implement our idea. We felt really sad and we struggled for a while. Despite this difficulties, we worked together and overcame it. We came up with another idea for the selector. Instead of letting the selector to hover around the inputs, we make the location of the selector unchanged, put it in the second row, and we let the inputs move around on the first row. This story shows us that we will meet a lot of problems while developing any system. However, it also shows that if we works together and combine our skills, we will overcome it.
+-In the beginning, our team were thinking of creating a selector that constantly hovering over every inputs. We thought that our idea is very cool and advanced. However, due to the limitation of the LCD(Fig.2), which can't show two symbols in the same digit box, we couldn't implement our idea. We felt really sad and we struggled for a while. Despite this difficulties, we worked together and overcame it. We came up with another idea for the selector. Instead of letting the selector to hover around the inputs, we make the location of the selector unchanged, put it in the second row, and we let the inputs move around on the first row. This story shows us that we will meet a lot of problems while developing any system. However, it also shows that if we works together and combine our skills, we will overcome it.
 
 #### Codes (so far):
 
