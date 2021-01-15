@@ -38,7 +38,7 @@ Fig.3 Flow diagram of our complete system
 #### Codes (so far):
 
 1. This part focuses on the LCD display function of our communication system including the button function.
-```.py
+```
 
 
 
@@ -376,7 +376,7 @@ if(mode == 1){
 ```
 
 2. The second part of the code focuses on the sending function and the LED message. We also create code for converting English text(input) to morse code.
-```.py
+```
 
 //English to morse
 void dash(){
