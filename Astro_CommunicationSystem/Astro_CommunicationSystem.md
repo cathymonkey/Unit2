@@ -10,6 +10,7 @@ We are creating a communication system that could send and receive messages betw
 
 #### Sketches of Ideas
 Fig 1 is the sketch of how our communication system works. 
+
 <img src ="https://github.com/BrightChanges/Unit-2/blob/main/IMG_7520.JPG" width = "600" height = "400">
 Fig.1 Our sketch for how our system looks like
 
@@ -17,10 +18,13 @@ Fig.1 Our sketch for how our system looks like
 ## Criteria B: Design
 #### System Diagram
 In Fig 2. below, we can clearly see how our system processes. 
+
 <img src ="https://github.com/cathymonkey/Unit2/blob/main/System_diagram.png" width = "600" height = "360">
 Fig.2 The system diagram of our program
 
 #### Flow Diagram
+Fig.3 is the flow diagram for our system. It's a useful guide for us to code and it always keeps our thinking clear.
+
 ![](https://github.com/BrightChanges/Unit-2/blob/main/Astro%20Commun%20Syst%20Flow%20chart.png)
 Fig.3 Flow diagram of our complete system
 (Link to our Flow Diagram online: https://app.lucidchart.com/lucidchart/invitations/accept/c567ebac-a171-4df8-b23b-e091a7f7a6d5)
