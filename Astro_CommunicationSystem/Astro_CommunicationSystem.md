@@ -9,13 +9,13 @@ We are creating a communication system that could send and receive messages betw
 
 
 #### Sketches of Ideas
-<img src ="https://github.com/BrightChanges/Unit-2/blob/main/IMG_7520.JPG" width = "600" height = "300">
+<img src ="https://github.com/BrightChanges/Unit-2/blob/main/IMG_7520.JPG" width = "600" height = "400">
 Fig.1 Our sketch for how our system looks like
 
 
 ## Criteria B: Design
 #### System Diagram
-<img src ="https://github.com/cathymonkey/Unit2/blob/main/System_diagram.png" width = "600" height = "450">
+<img src ="https://github.com/cathymonkey/Unit2/blob/main/System_diagram.png" width = "600" height = "360">
 Fig.2 The system diagram of our program
 
 #### Flow Diagram
