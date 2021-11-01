@@ -1,6 +1,6 @@
 
 # Astro Communication System 
-### Created by Kien Le Trung, Timur Garifullin, Chengyu Fan
+### Created by Chengyu Fan, Kien Le Trung, Timur Garifullin
 
 
 ## Criteria A: Planning
